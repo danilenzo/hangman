@@ -8,8 +8,9 @@ check_guess function will take letter as an arguemtn and check if the letter is 
 
 ## Usage
 
-[Explain how users can use your project. Provide examples or code snippets if applicable. Include any necessary information for running or testing the project.]
+Usage is to be updated.
 
 ## File Structure
 
-[]
+Milestone_2.py
+Milestone_3.py
