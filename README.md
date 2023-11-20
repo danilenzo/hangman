@@ -1,4 +1,4 @@
-[Hangman Project]
+## Hangman Project
 
 ## Description
 
