@@ -36,8 +36,8 @@ When the code is running, user has to guess either letter or a word from a strin
 
 ## 6. File Structure
 
-• README.md
-• milestone_2.py
-• milestone_3.py
-• milestone_4.py
-• milestone_5.py
+# • README.md
+# • milestone_2.py
+# • milestone_3.py
+# • milestone_4.py
+# • milestone_5.py
