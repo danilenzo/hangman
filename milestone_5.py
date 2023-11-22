@@ -9,25 +9,25 @@ class Hangman:
         self.num_letters = len(set(self.word))
         self.list_of_guesses = []
 
-    def _choose_random_word(self):
+    def choose_random_word(self):
         return random.choice(self.word_list)
 
-    def _update_word_guessed(self, guess):
+    def update_word_guessed(self, guess):
         for i, letter in enumerate(self.word):
             if letter == guess:
                 self.word_guessed[i] = guess
         self.num_letters -= 1
 
-    def _handle_correct_guess(self, guess):
+    def handle_correct_guess(self, guess):
         print(f"Good guess! '{guess}' is in the word.")
         self._update_word_guessed(guess)
 
-    def _handle_incorrect_guess(self, guess):
+    def handle_incorrect_guess(self, guess):
         self.num_lives -= 1
         print(f"Sorry, '{guess}' is not in the word.")
         print(f"You have {self.num_lives} lives left.")
 
-    def _check_guess(self, guess):
+    def check_guess(self, guess):
         guess = guess.lower()
 
         if guess in self.word:
