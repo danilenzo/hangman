@@ -1,5 +1,14 @@
 # Hangman Game
 
+## Table of Contents
+
+1. Description
+2. Project Goal
+3. Set-up
+4. How Does it work?
+5. What did I learn?
+6. File Structure
+
 ## 1. Description
 
 Hangman is a guessing game. Player thinks of a word, phrase, or sentence and the other tries to guess it by suggesting letters or numbers within a certain number of guesses.
@@ -25,7 +34,7 @@ When the code is running, user has to guess either letter or a word from a strin
 5. Implementing Class and using OOP.
 6. Using GitHub Commands to: clone, add origin, add files, check the status as well as commit and push.
 
-## File Structure
+## 6. File Structure
 
 README.md
 milestone_2.py
