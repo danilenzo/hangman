@@ -6,7 +6,7 @@ def display_guess_result(guess, is_in_word):
     if is_in_word:
         print(f"Good guess! '{guess}' is in the word.")
     else:
-        print(f"Sorry, '{guess}' is not in the word. Try again.")
+        print(f"Sorry, '{guess}' is not in the word. Please try again.")
 
 def normalize_guess(guess):
     return guess.lower()
