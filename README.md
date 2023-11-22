@@ -1,22 +1,22 @@
 # Hangman Game
 
-1. Description <a name="description"></a>
+## 1. Description
 
 Hangman is a guessing game. Player thinks of a word, phrase, or sentence and the other tries to guess it by suggesting letters or numbers within a certain number of guesses.
 
-2. Project Goal <a name="project-goal"></a>
+## 2. Project Goal
 
 The goal of this project is to showcase what I have learned in the last month by creating Hangman Game.
 
-3. Set-up <a name= "setup"></a>
+## 3. Set-up
 
 In order to complete the setup and you have to either download the project or use the following command: `git clone https://github.com/danilenzo/hangman.git` either in your favourite IDE or terminal/linux command line.
 
-4. How does it work? <a name= "explanation"></a>
+## 4. How does it work?
 
 When the code is running, user has to guess either letter or a word from a string of words. User has 5 chances to guess correctly.
 
-5. What did I learn? <a name="what_did_i_learn"></a>
+## 5. What did I learn?
 
 1. Using import system
 2. Implementing functions
