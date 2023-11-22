@@ -47,7 +47,7 @@ class Hangman:
                 self.check_guess(guess)
                 self.list_of_guesses.append(guess)
 
-            break  # For testing purposes, you might want to remove this break
+            break  # For testing purposes
 
 # Example usage:
 hangman_game = Hangman(['apple', 'banana', 'orange'])
