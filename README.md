@@ -18,11 +18,11 @@ When the code is running, user has to guess either letter or a word from a strin
 
 ## 5. What did I learn?
 
-1. Using import system
-2. Implementing functions
-3. Using Loops, Iteration and Control Flow 
-4. Error Handling
-5. Implementing Class and using OOP
+1. Using import system.
+2. Implementing functions.
+3. Using Loops, Iteration and Control Flow .
+4. Error Handling.
+5. Implementing Class and using OOP.
 6. Using GitHub Commands to: clone, add origin, add files, check the status as well as commit and push.
 
 ## File Structure
